@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/app/%28marketing%29/layout.tsx"],"sourcesContent":["export default function MarketingLayout({ children }: { children: React.ReactNode }) {\n  return <>{children}</>;\n}\n"],"names":["MarketingLayout","children"],"mappings":"wEAAe,SAASA,AAAgB,UAAEC,CAAQ,CAAiC,EACjF,MAAO,CAAA,EAAA,EAAA,GAAA,EAAA,EAAA,QAAA,CAAA,UAAGA,GACZ"}

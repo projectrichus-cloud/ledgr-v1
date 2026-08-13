@@ -1,0 +1,3 @@
+{
+  "/(auth)/onboarding/business-owner/page": "app/(auth)/onboarding/business-owner/page.js"
+}
